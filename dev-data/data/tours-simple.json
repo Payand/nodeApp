@@ -308,5 +308,15 @@
     "ratingsAverage": 4.9,
     "ratingsQuantity": 33,
     "price": 1000
+  },
+  {
+    "id": "aa17e61b-9b7d-4e93-a6f1-eda505606e10",
+    "name": "Hello1",
+    "duration": 3,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 33,
+    "price": 1000
   }
 ]
